@@ -12,9 +12,8 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Full Stack Web Projects**
+- 🔭 I’m currently working on **Mern Stack Web Projects**
 - 🌱 I’m learning advanced **React, Node.js, and TypeScript**
-- 🛠️ Passionate about clean code, UI/UX, and performance optimization
 - ⚡ Fun fact: I love exploring new tech and building cool side projects
 - 📍 Based in: **Pakistan 🇵🇰**
 
@@ -35,7 +34,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
+
 
 ---
 
@@ -43,9 +42,10 @@
 
 | Name | Description | Link |
 |------|-------------|------|
-| 💼 Portfolio Website | My personal portfolio built with React & Tailwind | [View](https://yourportfolio.com) |
-| 📋 Todo App | Full CRUD Todo app using MERN stack | [GitHub](https://github.com/sheikhhaseeb937/todo-app) |
-| 📦 E-Commerce Store | Shopping app with cart, auth & products | _Coming Soon_ |
+| 📋 Employment Management System App | Full CRUD Todo app using MERN stack using material UI , typescript | [GitHub]([https://github.com/sheikhhaseeb937/todo-app](https://empolyement-mangement-frontend-git-main-haseeb-sheikh.vercel.app/)) |
+| 📋 Todo App | Full CRUD Todo app using MERN stack | [GitHub]([https://github.com/sheikhhaseeb937/todo-app](https://todo-advance-beta.vercel.app/)) |
+| 📦 E-Commerce Store | Shopping app with cart, auth & products | [GitHub](https://leather-goods-sb-sflw.vercel.app/) |
+| 📦 LoanApp |  Full CRUD Todo app using MERN stack  | [GitHub](https://loan-app-fullstact-2g9q.vercel.app/) |
 
 ---
 
